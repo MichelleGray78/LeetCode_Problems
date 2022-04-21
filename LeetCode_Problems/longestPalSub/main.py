@@ -7,6 +7,7 @@ def longestpalindrome(s):
     C = R = 0
     for i in range (1, n-1):
         P[i] = (R > i) and min(R - i, P[2*C - i]) # equals to i' = C - (i-C)
+        print(P)
         # Attempt to expand palindrome centered at i
         while T[i + 1 + P[i]] == T[i - 1 - P[i]]:
             P[i] += 1
