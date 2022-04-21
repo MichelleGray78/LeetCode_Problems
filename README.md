@@ -9,5 +9,5 @@ Solving leetcode problems
 * Maximum Subarray: Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum (EASY).
 * Binary_Search: Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1 (EASY).
 
-## DIFFICULT
-* longestPalSub: Work out the longest palendromic substring (DIFFICULT) - (SOLVED using MANACHERS ALGORITHM)
+## MEDIUM
+* longestPalSub: Work out the longest palendromic substring (MEDIUM) - (SOLVED using MANACHERS ALGORITHM)
