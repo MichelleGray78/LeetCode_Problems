@@ -1,6 +1,6 @@
 # LeetCode_Problems
 Solving leetcode problems
-# EASY
+## EASY
 * AverageSalary: Working out the average salary excluding min and max (EASY)
 * countOdds: Count odd numbers in an interval range (EASY)
 * twoSum: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target (EASY).
@@ -9,5 +9,5 @@ Solving leetcode problems
 * Maximum Subarray: Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum (EASY).
 * Binary_Search: Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1 (EASY).
 
-# DIFFICULT
+## DIFFICULT
 * longestPalSub: Work out the longest palendromic substring (DIFFICULT) - (SOLVED using MANACHERS ALGORITHM)
