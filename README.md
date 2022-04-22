@@ -11,6 +11,14 @@ Solving leetcode problems
 * Search_Insert_Position: Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 * sorted_squares: Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
 * rotate_array: Given an array, rotate the array to the right by k steps, where k is non-negative.
-
+* Intersection_of_two_arrays_II: Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
+* move_zeroes: Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+Note that you must do this in-place without making a copy of the array.
+* Best_time_to_buy_and_sell_stock: You are given an array prices where prices[i] is the price of a given stock on the ith day.
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+* Number_of_one_bits: Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
+* Subtract_prod_sum: Given an integer number n, return the difference between the product of its digits and the sum of its digits.
+* largest_perimeter_triangle: Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths. If it is impossible to form any triangle of a non-zero area, return 0.
 ## MEDIUM
 * longestPalSub: Work out the longest palendromic substring - (SOLVED using MANACHERS ALGORITHM)
