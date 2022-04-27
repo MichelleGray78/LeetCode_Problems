@@ -20,5 +20,10 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 * Number_of_one_bits: Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
 * Subtract_prod_sum: Given an integer number n, return the difference between the product of its digits and the sum of its digits.
 * largest_perimeter_triangle: Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths. If it is impossible to form any triangle of a non-zero area, return 0.
+* Nearest_point_with_same_x_or_y: You are given two integers, x and y, which represent your current location on a Cartesian grid: (x, y). You are also given an array points where each points[i] = [ai, bi] represents that a point exists at (ai, bi). A point is valid if it shares the same x-coordinate or the same y-coordinate as your location.
+* sign_of_the_prod_of_arr: There is a function signFunc(x) that returns: 1 if x is positive. -1 if x is negative. 0 if x is equal to 0.
+You are given an integer array nums. Let product be the product of all values in the array nums. Return signFunc(product).
+* Reverse_Words_In_a_String_III: Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
 ## MEDIUM
 * longestPalSub: Work out the longest palendromic substring - (SOLVED using MANACHERS ALGORITHM)
