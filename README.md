@@ -26,4 +26,4 @@ You are given an integer array nums. Let product be the product of all values in
 * Reverse_Words_In_a_String_III: Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
 ## MEDIUM
-* longestPalSub: Work out the longest palendromic substring - (SOLVED using MANACHERS ALGORITHM)
+* longestPalSub: Work out the longest palendromic substring - **(SOLVED using MANACHERS ALGORITHM)**
